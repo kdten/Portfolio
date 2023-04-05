@@ -3524,3 +3524,14 @@ input, select, textarea {
 		align-items: center;
 		justify-content: center;
 	}
+
+	.weatherqr {
+	height: 90px;
+	width: 90px;
+	}
+
+	.qrandp {
+		display: flex;
+		justify-content: center;
+		align-self: center;
+	}
