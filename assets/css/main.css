@@ -3534,4 +3534,5 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 		align-self: center;
+		justify-content: space-around;
 	}
