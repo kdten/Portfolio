@@ -3511,8 +3511,16 @@ input, select, textarea {
 	}
 
 	#headshot {
-		width: 60%;
+		width: 40%;
 		margin-left: auto;
 		margin-right: auto;
 		border-radius: 4%;
+		display: flex;
+		justify-content: center;
+	}
+
+	.rowPortfolio {
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
