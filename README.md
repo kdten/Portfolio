@@ -9,7 +9,7 @@ A clean professional site that looks great on any size device showcasing some of
 
 **Tech used** HTML, CSS, JavaScript, Bootstrap
 
-Bootstrap adds lightning fast responsiveness to this page. Gifs were created using OBS screen recording software, refined using avidemux, and furhter optimized for correct sizing and file size before finally adding them to the site and lastly 'lazy loaded' to improve performance. 
+Bootstrap adds lightning fast responsiveness to this page. Gifs were created using OBS screen recording software, refined using Avidemux, and further optimized for correct sizing and file size/type before finally adding them to the site and lastly 'lazy loaded' to improve performance. 
 
 ## Optimizations
 
